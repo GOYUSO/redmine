@@ -1,0 +1,24 @@
+{
+  "name": "redmine",
+  "version": "0.1.0",
+  "description": "Get repositories of your redmine",
+  "main": "redmine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GOYUSO/redmine.git"
+  },
+  "keywords": [
+    "redmine",
+    "repositories",
+    "repository"
+  ],
+  "author": "antsegcan@gmail.com (http://github.com/GOYUSO)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GOYUSO/redmine/issues"
+  },
+  "homepage": "https://github.com/GOYUSO/redmine"
+}
